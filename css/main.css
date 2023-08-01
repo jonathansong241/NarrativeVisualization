@@ -90,7 +90,7 @@ label {
 
 .s1 {
   background: url("../imgs/3.png");
-  background-size: center;
+  background-size: cover;
 }
 
 .s1 h1 {
@@ -101,7 +101,7 @@ label {
 
 .s2 {
   background: url("../imgs/1.png");
-  background-size: center;
+  background-size: cover;
 }
 
 .s2 h1 {
@@ -112,7 +112,7 @@ label {
 
 .s3 {
   background: url("../imgs/2.png");
-  background-size: center;
+  background-size: cover;
 }
 
 .s4 {
