@@ -84,7 +84,7 @@ label {
 
 .s0 {
   background: url("../imgs/first.jpg");
-  background-size: center;
+  background-size: fill;
   text-align: center;
 }
 
