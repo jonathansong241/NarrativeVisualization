@@ -100,7 +100,7 @@ label {
 }
 
 .s2 {
-  background: url("../imgs/background.jpg");
+  background: url("../imgs/1.png");
   background-size: cover;
 }
 
@@ -111,12 +111,12 @@ label {
 }
 
 .s3 {
-  background: url("../imgs/background.jpg");
+  background: url("../imgs/2.png");
   background-size: cover;
 }
 
 .s4 {
-  background: url("../imgs/reference.jpeg");
+  background: url("../imgs/3.png");
   background-size: cover;
   position: relative;
   top: 0;
