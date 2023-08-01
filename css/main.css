@@ -101,7 +101,7 @@ label {
 
 .s2 {
   background: url("../imgs/1.png");
-  background-size: cover;
+  background-size: fit;
 }
 
 .s2 h1 {
@@ -112,12 +112,12 @@ label {
 
 .s3 {
   background: url("../imgs/2.png");
-  background-size: cover;
+  background-size: fit;
 }
 
 .s4 {
   background: url("../imgs/3.png");
-  background-size: cover;
+  background-size: fit;
   position: relative;
   top: 0;
   bottom: auto;
