@@ -84,13 +84,13 @@ label {
 
 .s0 {
   background: url("../imgs/First.jpg");
-  background-size: cover;
+  background-size: center;
   text-align: center;
 }
 
 .s1 {
   background: url("../imgs/background.jpg");
-  background-size: cover;
+  background-size: center;
 }
 
 .s1 h1 {
@@ -101,7 +101,7 @@ label {
 
 .s2 {
   background: url("../imgs/1.png");
-  background-size: fit;
+  background-size: center;
 }
 
 .s2 h1 {
@@ -112,12 +112,12 @@ label {
 
 .s3 {
   background: url("../imgs/2.png");
-  background-size: fit;
+  background-size: center;
 }
 
 .s4 {
   background: url("../imgs/3.png");
-  background-size: fit;
+  background-size: center;
   position: relative;
   top: 0;
   bottom: auto;
